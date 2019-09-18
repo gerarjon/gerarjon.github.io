@@ -59,10 +59,10 @@ nav {
 
 @media only screen and (min-width: 600px) {
     .top {  
-        margin-top: 200px;
+        margin-top: 220px;
     }
     #home {
-        height: 70vh;
+        height: 75vh;
     }
     #portfolio {
         height: 100vh;
