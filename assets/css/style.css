@@ -27,17 +27,17 @@ nav {
 /* Scrollspy */
 .table-of-contents a {
     padding-left: 0;
-    padding-right: 16px;
+    padding-right: 15px;
 }
 .table-of-contents a:hover {
     padding-left: 0;
-    padding-right: 16px;
+    padding-right: 14px;
     border: none;
     border-right: 1px solid #ee6e73;
 }
 .table-of-contents a.active {
     padding-left: 0;
-    padding-right: 14px;
+    padding-right: 8px;
     border: none;
     border-right: 2px solid #ee6e73;
 }
