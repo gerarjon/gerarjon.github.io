@@ -4,6 +4,7 @@ h6 {
 .face {
     width: 20px;
 }
+
 /* Navbar */
 nav {
     padding-top: 10px;
@@ -16,6 +17,7 @@ nav {
 .brand-logo {
     padding-left: 20px!important;
 }
+
 /* Pushpin */
 .pushpin {
     margin-left: 4rem;
