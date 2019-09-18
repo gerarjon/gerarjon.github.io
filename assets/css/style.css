@@ -1,0 +1,83 @@
+h6 {
+    padding-right: 40px;
+}
+.face {
+    width: 20px;
+}
+/* Navbar */
+nav {
+    padding-top: 10px;
+    height: 75px;
+    background: transparent;
+}
+.nav-wrapper a {
+    color: #000;
+}
+.brand-logo {
+    padding-left: 20px!important;
+}
+/* Pushpin */
+.pushpin {
+    margin-left: 4rem;
+}    
+.pushpin ul li {
+    font-size: 1.5rem;
+}
+
+/* Scrollspy */
+.table-of-contents a {
+    padding-left: 0;
+    padding-right: 16px;
+}
+.table-of-contents a:hover {
+    padding-left: 0;
+    padding-right: 16px;
+    border: none;
+    border-right: 1px solid #ee6e73;
+}
+.table-of-contents a.active {
+    padding-left: 0;
+    padding-right: 14px;
+    border: none;
+    border-right: 2px solid #ee6e73;
+}
+
+/* Card */
+.card-title {
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 1.7!important;
+    font-weight: 600!important;
+}
+.port-image:hover {
+    opacity: 0.8;
+    transition: 0.3s;
+}
+.card-action a {
+    color: rgb(0, 140, 255)!important;
+    font-weight: 500!important;
+}
+
+@media only screen and (min-width: 600px) {
+    .top {  
+        margin-top: 200px;
+    }
+    #home {
+        height: 70vh;
+    }
+    #portfolio {
+        height: 100vh;
+    }
+    #contact {
+        height: 75vh;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .pushpin {
+        margin-left: 6rem;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .pushpin {
+        margin-left: 12rem;
+    }
+}
