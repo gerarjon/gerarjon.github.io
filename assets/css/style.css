@@ -43,6 +43,39 @@ nav {
     border: none;
     border-right: 2px solid #ee6e73;
 }
+/* Mouse Animation */
+.mouse {
+    top: 12%;
+    left: 45%;
+    position: relative;
+    width: 25px;
+    height: 45px;
+    border: 2px solid #333;
+    border-radius: 60px;
+}
+.scroll {
+    content: "";
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 10px;
+    background: #333;
+    left: 45%;
+    transform: translateX(-45%);
+    border-radius: 50%;
+    opacity: 1;
+    animation: mouse 2s infinite;
+}
+@keyframes mouse {
+    from {
+        opacity: 1;
+        top: 10px;
+    }
+    to {
+        opacity: 0;
+        top: 30px;
+    }
+}
 
 /* Card */
 .card-title {
@@ -64,7 +97,7 @@ nav {
         margin-top: 220px;
     }
     #home {
-        height: 75vh;
+        height: 100vh;
     }
     #portfolio {
         height: 100vh;
