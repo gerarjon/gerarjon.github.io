@@ -5,6 +5,9 @@
 Hello! Welcome to my portfolio. In here you can find the latest projects I have worked on individually or as a group. 
 
 ## List of projects
+Bamazon:
+* Deployed: install to own computer
+* [Repo](https://github.com/gerarjon/Bamazon)
 LIRI:
 * Deployed: install to own computer
 * [Repo](https://github.com/gerarjon/liri-node-app)
