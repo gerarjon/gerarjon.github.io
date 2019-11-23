@@ -1,3 +1,4 @@
+/* Global */
 body {
     background: #000;
     color: #eee;
@@ -8,7 +9,6 @@ h6 {
 a {
     color: #ee6e73;
 }
-
 .clearfix:after {
     content: " "; /* Older browser do not support empty content */
     visibility: hidden;
@@ -27,7 +27,7 @@ a {
 nav {
     padding-top: 10px;
     height: 75px;
-    background: transparent;
+    background: #000;
 }
 .brand-logo {
     padding-left: 20px!important;
@@ -40,7 +40,8 @@ nav {
 
 /* Scrollspy */
 .table-of-contents a {
-    padding-left: 0;  
+    padding-left: 0; 
+    margin-bottom: 0.2rem;
 }
 .table-of-contents a:hover {
     padding-left: 0;
@@ -70,9 +71,9 @@ nav {
     height: 5px;
     position: absolute;
     top: 10px;
-    background: rgb(124, 124, 124);
+    background: rgb(189, 78, 78);
     left: 50%;
-    transform: translateX(-45%);
+    transform: translateX(-44.5%);
     border-radius: 50%;
     opacity: 1;
     animation: mouse 2s infinite;
@@ -95,7 +96,6 @@ nav {
     font-size: 2rem!important;
     font-weight: 600!important;
 }
-
 .card-action a {
     color: rgb(0, 140, 255)!important;
     font-weight: 500!important;
@@ -106,6 +106,7 @@ nav {
     font-size: 1.4rem;
 }
 
+/* Breakpoints */
 @media only screen and (min-width: 600px) {
     .top {  
         margin-top: 130px;
