@@ -12,8 +12,8 @@ LIRI:
 * Deployed: install to own computer
 * [Repo](https://github.com/gerarjon/liri-node-app)
 Date Night:
-* [Deployed](https://nolimits1.github.io/project-one/)
-* [Repo](https://github.com/Nolimits1/project-one)
+* [Deployed](https://nolimits1.github.io/date-night/)
+* [Repo](https://github.com/Nolimits1/date-night)
 Geriphy:
 * [Deployed](https://gerarjon.github.io/GifTastic)
 * [Repo](https://github.com/gerarjon/GifTastic)
