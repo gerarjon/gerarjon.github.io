@@ -22,6 +22,9 @@ a {
 .title-list ul li {
     margin: 0 0.7rem;
 }
+svg {
+    width: 8%;
+}
 
 /* Navbar */
 nav {
@@ -53,6 +56,11 @@ nav {
     color: #eee;
     border: none;
     border-bottom: 2px solid #ee6e73;
+}
+/* Skills Section */
+.skills-section {
+    padding: 0.8rem 1.2rem;
+    padding-left: 2rem;
 }
 
 /* Mouse Animation */
