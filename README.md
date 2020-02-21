@@ -1,36 +1,16 @@
 # Gerar Suaverdez - Portfolio
 
-
 ## About 
 Hello! Welcome to my portfolio. In here you can find the latest projects I have worked on individually or as a group. 
 
 ## List of projects
-Bamazon:
-* Deployed: install to own computer
-* [Repo](https://github.com/gerarjon/Bamazon)
-LIRI:
-* Deployed: install to own computer
-* [Repo](https://github.com/gerarjon/liri-node-app)
-Date Night:
-* [Deployed](https://nolimits1.github.io/date-night/)
-* [Repo](https://github.com/Nolimits1/date-night)
-Geriphy:
-* [Deployed](https://gerarjon.github.io/GifTastic)
-* [Repo](https://github.com/gerarjon/GifTastic)
-Yu-Gi-Oh Trivia:
-* [Deplioyed](https://gerarjon.github.io/TriviaGame/)
-* [Repo](https://github.com/gerarjon/TriviaGame)
-Train Scheduler:
-* [Deployed](https://gerarjon.github.io/Train-Scheduler)
-* [Repo](https://github.com/gerarjon/Train-Scheduler)
+[Meme House](https://meme-house-ggm.herokuapp.com/)
+[Twice Clicky Game](https://gerarjon.github.io/twice-clicky-game)
+[Grouper](https://pure-meadow-76725.herokuapp.com/)
+[Quang's Burgers](https://burger-gs.herokuapp.com/)
+[Friend Finder](https://friendfinder-gs.herokuapp.com/)
+[Date Night](https://emiliov1.github.io/date-night/)
 
-
-## Technologies 
-Made with:
-* HTML 5
-* CSS 3
-* [Materialize.css](https://materializecss.com/)
-* Lots of tears
-
-## Author
-* [Me](https://github.com/gerarjon)
+## Contact
+* [GitHub](https://github.com/gerarjon)
+* Email: gerarsuaverdez@gmail.com
